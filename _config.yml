@@ -3,3 +3,13 @@ title: S.Mustafa
 #description: text below image
 show_downloads: true
 theme: minima
+
+header_pages:
+  - projects/index.md
+  - about.md
+
+# Collections for projects
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
