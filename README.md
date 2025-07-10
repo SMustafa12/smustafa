@@ -1,18 +1,8 @@
-# Hello, I'm SMustafa12 👋
-
 ## 🚀 About Me
 Physics enthusiast passionate about applying **computational methods** to solve complex physics problems. I bridge the gap between theoretical physics and practical programming, creating educational content that makes physics more accessible through code.
 
-> *"XP - PX = iħ"* - Where quantum mechanics meets programming
-
 ## 🎓 Education
-- **Physics** - Specializing in computational physics and mathematical methods
-
-## 🔬 Research Interests
-- **Computational Physics**: Numerical solutions to physics problems
-- **Statistical Analysis**: Data-driven approaches in physics
-- **Mathematical Methods**: Python implementations of theoretical concepts
-- **Educational Technology**: Making physics accessible through programming
+- **Physics**
 
 ## 📊 Featured Projects
 
@@ -50,7 +40,6 @@ Comprehensive statistical analysis framework for large datasets:
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Scientific Computing
 - **NumPy**: Numerical computations and array operations
@@ -64,21 +53,5 @@ Comprehensive statistical analysis framework for large datasets:
 - **Mathematical Physics**: Integral calculus and numerical methods
 - **Data Analysis**: Statistical methods in experimental physics
 
-## 📈 GitHub Stats
-![SMustafa12's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMustafa12&show_icons=true&theme=radical)
-
 ## 🌱 Currently Learning
-- Advanced numerical methods in quantum mechanics
-- Machine learning applications in physics
 - High-performance computing for physics simulations
-
-## 🤝 Let's Connect
-- 📧 Open to collaboration on physics education projects
-- 💡 Interested in computational physics research
-- 🔬 Always eager to discuss physics and programming
-
----
-
-*"Making physics computable, one equation at a time"* ⚛️
-
-[![Profile views](https://komarev.com/ghpvc/?username=SMustafa12&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SMustafa12)
